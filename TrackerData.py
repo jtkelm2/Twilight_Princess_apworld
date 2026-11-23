@@ -1,4 +1,4 @@
-"""Universal Tracker map data generated from TPRAP_poptracker 1.0.0 (commit 82fd1e3).
+"""Universal Tracker map data generated from TPRAP_poptracker 1.0.0 (commit 80f5d7b).
 
 Do not edit by hand: regenerate with tools/gen_tracker_data.py.
 """
@@ -285,7 +285,7 @@ MAP_PAGE_GROUPS = [
 POPTRACKER_NAME_MAPPING = {
     "Big Key Chest/Arbiters Grounds Big Key Chest": 2320000,  # Arbiters Grounds Big Key Chest
     "Death Sword Chest/Arbiters Grounds Death Sword Chest": 2320001,  # Arbiters Grounds Death Sword Chest
-    "Stallord Boss/Dungeon Reward": 2320002,  # Arbiters Grounds Dungeon Reward
+    "Stallord Boss/Arbiters Grounds Dungeon Reward": 2320002,  # Arbiters Grounds Dungeon Reward
     "East Lower Turnable Redead Chest/Arbiters Grounds East Lower Turnable Redead Chest": 2320003,  # Arbiters Grounds East Lower Turnable Redead Chest
     "East Turning Room Poe/Arbiters Grounds East Turning Room Poe": 2320004,  # Arbiters Grounds East Turning Room Poe
     "East Upper Turnable Chest/Arbiters Grounds East Upper Turnable Chest": 2320005,  # Arbiters Grounds East Upper Turnable Chest
@@ -299,9 +299,9 @@ POPTRACKER_NAME_MAPPING = {
     "Spinner Room Lower North Chest/Arbiters Grounds Spinner Room Lower North Chest": 2320013,  # Arbiters Grounds Spinner Room Lower North Chest
     "Spinner Room Second Small Chest/Arbiters Grounds Spinner Room Second Small Chest": 2320014,  # Arbiters Grounds Spinner Room Second Small Chest
     "Spinner Room Stalfos Alcove Chest/Arbiters Grounds Spinner Room Stalfos Alcove Chest": 2320015,  # Arbiters Grounds Spinner Room Stalfos Alcove Chest
-    "Stallord Boss/Stallord Heart Container": 2320016,  # Arbiters Grounds Stallord Heart Container
+    "Stallord Boss/Arbiters Grounds Stallord Heart Container": 2320016,  # Arbiters Grounds Stallord Heart Container
     "Torch Room East Chest/Arbiters Grounds Torch Room East Chest": 2320017,  # Arbiters Grounds Torch Room East Chest
-    "Torch Room Poe/Poe Soul": 2320018,  # Arbiters Grounds Torch Room Poe
+    "Torch Room Poe/Arbiters Grounds Torch Room Poe": 2320018,  # Arbiters Grounds Torch Room Poe
     "Torch Room West Chest/Arbiters Grounds Torch Room West Chest": 2320019,  # Arbiters Grounds Torch Room West Chest
     "West Chandelier Chest/Arbiters Grounds West Chandelier Chest": 2320020,  # Arbiters Grounds West Chandelier Chest
     "West Poe/Arbiters Grounds West Poe": 2320021,  # Arbiters Grounds West Poe
@@ -309,7 +309,7 @@ POPTRACKER_NAME_MAPPING = {
     "West Stalfos Northeast Chest/Arbiters Grounds West Stalfos Northeast Chest": 2320023,  # Arbiters Grounds West Stalfos Northeast Chest
     "West Stalfos West Chest/Arbiters Grounds West Stalfos West Chest": 2320024,  # Arbiters Grounds West Stalfos West Chest
     "Aeralfos Chest/City in The Sky Aeralfos Chest": 2320025,  # City in The Sky Aeralfos Chest
-    "Argorok Boss/Argorok Heart Container": 2320026,  # City in The Sky Argorok Heart Container
+    "Argorok Boss/City in The Sky Argorok Heart Container": 2320026,  # City in The Sky Argorok Heart Container
     "Baba Tower Alcove Chest/City in The Sky Baba Tower Alcove Chest": 2320027,  # City in The Sky Baba Tower Alcove Chest
     "Baba Tower Narrow Ledge Chest/City in The Sky Baba Tower Narrow Ledge Chest": 2320028,  # City in The Sky Baba Tower Narrow Ledge Chest
     "Baba Tower Top Small Chest/City in The Sky Baba Tower Top Small Chest": 2320029,  # City in The Sky Baba Tower Top Small Chest
@@ -318,7 +318,7 @@ POPTRACKER_NAME_MAPPING = {
     "Central Outside Poe Island Chest/City in The Sky Central Outside Poe Island Chest": 2320032,  # City in The Sky Central Outside Poe Island Chest
     "Chest Behind North Fan/City in The Sky Chest Behind North Fan": 2320033,  # City in The Sky Chest Behind North Fan
     "Chest Below Big Key Chest/City in The Sky Chest Below Big Key Chest": 2320034,  # City in The Sky Chest Below Big Key Chest
-    "Argorok Boss/Dungeon Reward": 2320035,  # City in The Sky Dungeon Reward
+    "Argorok Boss/City in The Sky Dungeon Reward": 2320035,  # City in The Sky Dungeon Reward
     "East First Wing Chest After Fans/City in The Sky East First Wing Chest After Fans": 2320036,  # City in The Sky East First Wing Chest After Fans
     "East Tile Worm Small Chest/City in The Sky East Tile Worm Small Chest": 2320037,  # City in The Sky East Tile Worm Small Chest
     "East Wing After Dinalfos Alcove Chest/City in The Sky East Wing After Dinalfos Alcove Chest": 2320038,  # City in The Sky East Wing After Dinalfos Alcove Chest
@@ -341,8 +341,8 @@ POPTRACKER_NAME_MAPPING = {
     "Central Chest Behind Stairs/Forest Temple Central Chest Behind Stairs": 2320055,  # Forest Temple Central Chest Behind Stairs
     "Central Chest Hanging From Web/Forest Temple Central Chest Hanging From Web": 2320056,  # Forest Temple Central Chest Hanging From Web
     "Central North Chest/Forest Temple Central North Chest": 2320057,  # Forest Temple Central North Chest
-    "Diababa Boss/Diababa Heart Container": 2320058,  # Forest Temple Diababa Heart Container
-    "Diababa Boss/Dungeon Reward": 2320059,  # Forest Temple Dungeon Reward
+    "Diababa Boss/Forest Temple Diababa Heart Container": 2320058,  # Forest Temple Diababa Heart Container
+    "Diababa Boss/Forest Temple Dungeon Reward": 2320059,  # Forest Temple Dungeon Reward
     "East Tile Worm Chest/Forest Temple East Tile Worm Chest": 2320060,  # Forest Temple East Tile Worm Chest
     "East Water Cave Chest/Forest Temple East Water Cave Chest": 2320061,  # Forest Temple East Water Cave Chest
     "Entrance Vines Chest/Forest Temple Entrance Vines Chest": 2320062,  # Forest Temple Entrance Vines Chest
@@ -360,9 +360,9 @@ POPTRACKER_NAME_MAPPING = {
     "Crystal Switch Room Small Chest/Goron Mines Crystal Switch Room Small Chest": 2320074,  # Goron Mines Crystal Switch Room Small Chest
     "Crystal Switch Room Underwater Chest/Goron Mines Crystal Switch Room Underwater Chest": 2320075,  # Goron Mines Crystal Switch Room Underwater Chest
     "Dangoro Chest/Goron Mines Dangoro Chest": 2320076,  # Goron Mines Dangoro Chest
-    "Fyrus Boss/Dungeon Reward": 2320077,  # Goron Mines Dungeon Reward
+    "Fyrus Boss/Goron Mines Dungeon Reward": 2320077,  # Goron Mines Dungeon Reward
     "Entrance Chest/Goron Mines Entrance Chest": 2320078,  # Goron Mines Entrance Chest
-    "Fyrus Boss/Fyrus Heart Container": 2320079,  # Goron Mines Fyrus Heart Container
+    "Fyrus Boss/Goron Mines Fyrus Heart Container": 2320079,  # Goron Mines Fyrus Heart Container
     "Gor Amato Chest/Goron Mines Gor Amato Chest": 2320080,  # Goron Mines Gor Amato Chest
     "Gor Amato Key Shard/Goron Mines Gor Amato Key Shard": 2320081,  # Goron Mines Gor Amato Key Shard
     "Gor Amato Small Chest/Goron Mines Gor Amato Small Chest": 2320082,  # Goron Mines Gor Amato Small Chest
@@ -379,9 +379,9 @@ POPTRACKER_NAME_MAPPING = {
     "Big Key Chest/Hyrule Castle Big Key Chest": 2320093,  # Hyrule Castle Big Key Chest
     "East Wing Balcony Chest/Hyrule Castle East Wing Balcony Chest": 2320094,  # Hyrule Castle East Wing Balcony Chest
     "East Wing Boomerang Puzzle Chest/Hyrule Castle East Wing Boomerang Puzzle Chest": 2320095,  # Hyrule Castle East Wing Boomerang Puzzle Chest
-    "Graveyard Grave Switch Room/Back Left Chest": 2320096,  # Hyrule Castle Graveyard Grave Switch Room Back Left Chest
-    "Graveyard Grave Switch Room/Front Left Chest": 2320097,  # Hyrule Castle Graveyard Grave Switch Room Front Left Chest
-    "Graveyard Grave Switch Room/Right Chest": 2320098,  # Hyrule Castle Graveyard Grave Switch Room Right Chest
+    "Graveyard Grave Switch Room/Hyrule Castle Graveyard Grave Switch Room Back Left Chest": 2320096,  # Hyrule Castle Graveyard Grave Switch Room Back Left Chest
+    "Graveyard Grave Switch Room/Hyrule Castle Graveyard Grave Switch Room Front Left Chest": 2320097,  # Hyrule Castle Graveyard Grave Switch Room Front Left Chest
+    "Graveyard Grave Switch Room/Hyrule Castle Graveyard Grave Switch Room Right Chest": 2320098,  # Hyrule Castle Graveyard Grave Switch Room Right Chest
     "Graveyard Owl Statue Chest/Hyrule Castle Graveyard Owl Statue Chest": 2320099,  # Hyrule Castle Graveyard Owl Statue Chest
     "King Bulblin Key/Hyrule Castle King Bulblin Key": 2320100,  # Hyrule Castle King Bulblin Key
     "Lantern Staircase Chest/Hyrule Castle Lantern Staircase Chest": 2320101,  # Hyrule Castle Lantern Staircase Chest
@@ -389,19 +389,19 @@ POPTRACKER_NAME_MAPPING = {
     "Main Hall Northwest Chest/Hyrule Castle Main Hall Northwest Chest": 2320103,  # Hyrule Castle Main Hall Northwest Chest
     "Main Hall Southwest Chest/Hyrule Castle Main Hall Southwest Chest": 2320104,  # Hyrule Castle Main Hall Southwest Chest
     "Southeast Balcony Tower Chest/Hyrule Castle Southeast Balcony Tower Chest": 2320105,  # Hyrule Castle Southeast Balcony Tower Chest
-    "Treasure Room/Eighth Small Chest": 2320106,  # Hyrule Castle Treasure Room Eighth Small Chest
-    "Treasure Room/Fifth Chest": 2320107,  # Hyrule Castle Treasure Room Fifth Chest
-    "Treasure Room/Fifth Small Chest": 2320108,  # Hyrule Castle Treasure Room Fifth Small Chest
-    "Treasure Room/First Chest": 2320109,  # Hyrule Castle Treasure Room First Chest
-    "Treasure Room/First Small Chest": 2320110,  # Hyrule Castle Treasure Room First Small Chest
-    "Treasure Room/Fourth Chest": 2320111,  # Hyrule Castle Treasure Room Fourth Chest
-    "Treasure Room/Fourth Small Chest": 2320112,  # Hyrule Castle Treasure Room Fourth Small Chest
-    "Treasure Room/Second Chest": 2320113,  # Hyrule Castle Treasure Room Second Chest
-    "Treasure Room/Second Small Chest": 2320114,  # Hyrule Castle Treasure Room Second Small Chest
-    "Treasure Room/Seventh Small Chest": 2320115,  # Hyrule Castle Treasure Room Seventh Small Chest
-    "Treasure Room/Sixth Small Chest": 2320116,  # Hyrule Castle Treasure Room Sixth Small Chest
-    "Treasure Room/Third Chest": 2320117,  # Hyrule Castle Treasure Room Third Chest
-    "Treasure Room/Third Small Chest": 2320118,  # Hyrule Castle Treasure Room Third Small Chest
+    "Treasure Room/Hyrule Castle Treasure Room Eighth Small Chest": 2320106,  # Hyrule Castle Treasure Room Eighth Small Chest
+    "Treasure Room/Hyrule Castle Treasure Room Fifth Chest": 2320107,  # Hyrule Castle Treasure Room Fifth Chest
+    "Treasure Room/Hyrule Castle Treasure Room Fifth Small Chest": 2320108,  # Hyrule Castle Treasure Room Fifth Small Chest
+    "Treasure Room/Hyrule Castle Treasure Room First Chest": 2320109,  # Hyrule Castle Treasure Room First Chest
+    "Treasure Room/Hyrule Castle Treasure Room First Small Chest": 2320110,  # Hyrule Castle Treasure Room First Small Chest
+    "Treasure Room/Hyrule Castle Treasure Room Fourth Chest": 2320111,  # Hyrule Castle Treasure Room Fourth Chest
+    "Treasure Room/Hyrule Castle Treasure Room Fourth Small Chest": 2320112,  # Hyrule Castle Treasure Room Fourth Small Chest
+    "Treasure Room/Hyrule Castle Treasure Room Second Chest": 2320113,  # Hyrule Castle Treasure Room Second Chest
+    "Treasure Room/Hyrule Castle Treasure Room Second Small Chest": 2320114,  # Hyrule Castle Treasure Room Second Small Chest
+    "Treasure Room/Hyrule Castle Treasure Room Seventh Small Chest": 2320115,  # Hyrule Castle Treasure Room Seventh Small Chest
+    "Treasure Room/Hyrule Castle Treasure Room Sixth Small Chest": 2320116,  # Hyrule Castle Treasure Room Sixth Small Chest
+    "Treasure Room/Hyrule Castle Treasure Room Third Chest": 2320117,  # Hyrule Castle Treasure Room Third Chest
+    "Treasure Room/Hyrule Castle Treasure Room Third Small Chest": 2320118,  # Hyrule Castle Treasure Room Third Small Chest
     "West Courtyard Central Small Chest/Hyrule Castle West Courtyard Central Small Chest": 2320119,  # Hyrule Castle West Courtyard Central Small Chest
     "West Courtyard North Small Chest/Hyrule Castle West Courtyard North Small Chest": 2320120,  # Hyrule Castle West Courtyard North Small Chest
     "Before Deku Toad Alcove Chest/Lakebed Temple Before Deku Toad Alcove Chest": 2320121,  # Lakebed Temple Before Deku Toad Alcove Chest
@@ -413,7 +413,7 @@ POPTRACKER_NAME_MAPPING = {
     "Central Room Spire Chest/Lakebed Temple Central Room Spire Chest": 2320127,  # Lakebed Temple Central Room Spire Chest
     "Chandelier Chest/Lakebed Temple Chandelier Chest": 2320128,  # Lakebed Temple Chandelier Chest
     "Deku Toad Chest/Lakebed Temple Deku Toad Chest": 2320129,  # Lakebed Temple Deku Toad Chest
-    "Morpheel Boss/Dungeon Reward": 2320130,  # Lakebed Temple Dungeon Reward
+    "Morpheel Boss/Lakebed Temple Dungeon Reward": 2320130,  # Lakebed Temple Dungeon Reward
     "East Lower Waterwheel Bridge Chest/Lakebed Temple East Lower Waterwheel Bridge Chest": 2320131,  # Lakebed Temple East Lower Waterwheel Bridge Chest
     "East Lower Waterwheel Stalactite Chest/Lakebed Temple East Lower Waterwheel Stalactite Chest": 2320132,  # Lakebed Temple East Lower Waterwheel Stalactite Chest
     "East Second Floor Southeast Chest/Lakebed Temple East Second Floor Southeast Chest": 2320133,  # Lakebed Temple East Second Floor Southeast Chest
@@ -422,7 +422,7 @@ POPTRACKER_NAME_MAPPING = {
     "East Water Supply Small Chest/Lakebed Temple East Water Supply Small Chest": 2320136,  # Lakebed Temple East Water Supply Small Chest
     "Lobby Left Chest/Lakebed Temple Lobby Left Chest": 2320137,  # Lakebed Temple Lobby Left Chest
     "Lobby Rear Chest/Lakebed Temple Lobby Rear Chest": 2320138,  # Lakebed Temple Lobby Rear Chest
-    "Morpheel Boss/Morpheel Heart Container": 2320139,  # Lakebed Temple Morpheel Heart Container
+    "Morpheel Boss/Lakebed Temple Morpheel Heart Container": 2320139,  # Lakebed Temple Morpheel Heart Container
     "Stalactite Room Chest/Lakebed Temple Stalactite Room Chest": 2320140,  # Lakebed Temple Stalactite Room Chest
     "Underwater Maze Small Chest/Lakebed Temple Underwater Maze Small Chest": 2320141,  # Lakebed Temple Underwater Maze Small Chest
     "West Lower Small Chest/Lakebed Temple West Lower Small Chest": 2320142,  # Lakebed Temple West Lower Small Chest
@@ -450,14 +450,14 @@ POPTRACKER_NAME_MAPPING = {
     "West Wing Second Room Central Chest/Palace of Twilight West Wing Second Room Central Chest": 2320164,  # Palace of Twilight West Wing Second Room Central Chest
     "West Wing Second Room Lower South Chest/Palace of Twilight West Wing Second Room Lower South Chest": 2320165,  # Palace of Twilight West Wing Second Room Lower South Chest
     "West Wing Second Room Southeast Chest/Palace of Twilight West Wing Second Room Southeast Chest": 2320166,  # Palace of Twilight West Wing Second Room Southeast Chest
-    "Zant Boss/Zant Heart Container": 2320167,  # Palace of Twilight Zant Heart Container
+    "Zant Boss/Palace of Twilight Zant Heart Container": 2320167,  # Palace of Twilight Zant Heart Container
     "Ball and Chain/Snowpeak Ruins Ball and Chain": 2320168,  # Snowpeak Ruins Ball and Chain
-    "Blizzeta Boss/Blizzeta Heart Container": 2320169,  # Snowpeak Ruins Blizzeta Heart Container
+    "Blizzeta Boss/Snowpeak Ruins Blizzeta Heart Container": 2320169,  # Snowpeak Ruins Blizzeta Heart Container
     "Broken Floor Chest/Snowpeak Ruins Broken Floor Chest": 2320170,  # Snowpeak Ruins Broken Floor Chest
     "Chapel Chest/Snowpeak Ruins Chapel Chest": 2320171,  # Snowpeak Ruins Chapel Chest
     "Chest After Darkhammer/Snowpeak Ruins Chest After Darkhammer": 2320172,  # Snowpeak Ruins Chest After Darkhammer
     "Courtyard Central Chest/Snowpeak Ruins Courtyard Central Chest": 2320173,  # Snowpeak Ruins Courtyard Central Chest
-    "Blizzeta Boss/Dungeon Reward": 2320174,  # Snowpeak Ruins Dungeon Reward
+    "Blizzeta Boss/Snowpeak Ruins Dungeon Reward": 2320174,  # Snowpeak Ruins Dungeon Reward
     "East Courtyard Buried Chest/Snowpeak Ruins East Courtyard Buried Chest": 2320175,  # Snowpeak Ruins East Courtyard Buried Chest
     "East Courtyard Chest/Snowpeak Ruins East Courtyard Chest": 2320176,  # Snowpeak Ruins East Courtyard Chest
     "Ice Room Poe/Snowpeak Ruins Ice Room Poe": 2320177,  # Snowpeak Ruins Ice Room Poe
@@ -475,14 +475,14 @@ POPTRACKER_NAME_MAPPING = {
     "Wooden Beam Central Chest/Snowpeak Ruins Wooden Beam Central Chest": 2320189,  # Snowpeak Ruins Wooden Beam Central Chest
     "Wooden Beam Chandelier Chest/Snowpeak Ruins Wooden Beam Chandelier Chest": 2320190,  # Snowpeak Ruins Wooden Beam Chandelier Chest
     "Wooden Beam Northwest Chest/Snowpeak Ruins Wooden Beam Northwest Chest": 2320191,  # Snowpeak Ruins Wooden Beam Northwest Chest
-    "Armogohma Boss/Armogohma Heart Container": 2320192,  # Temple of Time Armogohma Heart Container
+    "Armogohma Boss/Temple of Time Armogohma Heart Container": 2320192,  # Temple of Time Armogohma Heart Container
     "Armos Antechamber East Chest/Temple of Time Armos Antechamber East Chest": 2320193,  # Temple of Time Armos Antechamber East Chest
     "Armos Antechamber North Chest/Temple of Time Armos Antechamber North Chest": 2320194,  # Temple of Time Armos Antechamber North Chest
     "Armos Antechamber Statue Chest/Temple of Time Armos Antechamber Statue Chest": 2320195,  # Temple of Time Armos Antechamber Statue Chest
     "Big Key Chest/Temple of Time Big Key Chest": 2320196,  # Temple of Time Big Key Chest
     "Chest Before Darknut/Temple of Time Chest Before Darknut": 2320197,  # Temple of Time Chest Before Darknut
     "Darknut Chest/Temple of Time Darknut Chest": 2320198,  # Temple of Time Darknut Chest
-    "Armogohma Boss/Dungeon Reward": 2320199,  # Temple of Time Dungeon Reward
+    "Armogohma Boss/Temple of Time Dungeon Reward": 2320199,  # Temple of Time Dungeon Reward
     "First Staircase Armos Chest/Temple of Time First Staircase Armos Chest": 2320200,  # Temple of Time First Staircase Armos Chest
     "First Staircase Gohma Gate Chest/Temple of Time First Staircase Gohma Gate Chest": 2320201,  # Temple of Time First Staircase Gohma Gate Chest
     "First Staircase Window Chest/Temple of Time First Staircase Window Chest": 2320202,  # Temple of Time First Staircase Window Chest
@@ -540,11 +540,11 @@ POPTRACKER_NAME_MAPPING = {
     "Kakariko Gorge Double Clawshot Chest/Kakariko Gorge Double Clawshot Chest": 2320240,  # Kakariko Gorge Double Clawshot Chest
     "Kakariko Gorge Female Pill Bug/Kakariko Gorge Female Pill Bug": 2320241,  # Kakariko Gorge Female Pill Bug
     "Kakariko Gorge Male Pill Bug/Kakariko Gorge Male Pill Bug": 2320242,  # Kakariko Gorge Male Pill Bug
-    "Kakariko Gorge Owl Statue /Chest": 2320243,  # Kakariko Gorge Owl Statue Chest
-    "Kakariko Gorge Owl Statue /Sky Character": 2320244,  # Kakariko Gorge Owl Statue Sky Character
+    "Kakariko Gorge Owl Statue /Kakariko Gorge Owl Statue Chest": 2320243,  # Kakariko Gorge Owl Statue Chest
+    "Kakariko Gorge Owl Statue /Kakariko Gorge Owl Statue Sky Character": 2320244,  # Kakariko Gorge Owl Statue Sky Character
     "Kakariko Gorge Poe/Kakariko Gorge Poe": 2320245,  # Kakariko Gorge Poe
     "Kakariko Gorge Spire Heart Piece/Kakariko Gorge Spire Heart Piece": 2320246,  # Kakariko Gorge Spire Heart Piece
-    "Kakariko Graveyard Golden Wolf/(Snowpeak Mountain Stone)": 2320247,  # Kakariko Graveyard Golden Wolf
+    "Kakariko Graveyard Golden Wolf/Kakariko Graveyard Golden Wolf": 2320247,  # Kakariko Graveyard Golden Wolf
     "Kakariko Graveyard Grave Poe/Kakariko Graveyard Grave Poe": 2320248,  # Kakariko Graveyard Grave Poe
     "Kakariko Graveyard Lantern Chest/Kakariko Graveyard Lantern Chest": 2320249,  # Kakariko Graveyard Lantern Chest
     "Kakariko Graveyard Male Ant/Kakariko Graveyard Male Ant": 2320250,  # Kakariko Graveyard Male Ant
@@ -571,7 +571,7 @@ POPTRACKER_NAME_MAPPING = {
     "Impaz's House/Skybook From Impaz": 2320264,  # Skybook From Impaz
     "Skybook From Impaz/Skybook From Impaz": 2320264,  # Skybook From Impaz
     "Talo Sharpshooting/Talo Sharpshooting": 2320265,  # Talo Sharpshooting
-    "Coro/Bottle": 2320266,  # Coro Bottle
+    "Coro/Coro Bottle": 2320266,  # Coro Bottle
     "Faron Field Bridge Chest/Faron Field Bridge Chest": 2320267,  # Faron Field Bridge Chest
     "Faron Field Corner Grotto Left Chest/Faron Field Corner Grotto Left Chest": 2320268,  # Faron Field Corner Grotto Left Chest
     "Faron Field Corner Grotto/Left Chest": 2320268,  # Faron Field Corner Grotto Left Chest
@@ -583,8 +583,8 @@ POPTRACKER_NAME_MAPPING = {
     "Faron Field Male Beetle/Faron Field Male Beetle": 2320272,  # Faron Field Male Beetle
     "Faron Field Poe/Faron Field Poe": 2320273,  # Faron Field Poe
     "Faron Field Tree Heart Piece/Faron Field Tree Heart Piece": 2320274,  # Faron Field Tree Heart Piece
-    "Faron Mist Cave/Lantern Chest": 2320275,  # Faron Mist Cave Lantern Chest
-    "Faron Mist Cave/Open Chest": 2320276,  # Faron Mist Cave Open Chest
+    "Faron Mist Cave/Faron Mist Cave Lantern Chest": 2320275,  # Faron Mist Cave Lantern Chest
+    "Faron Mist Cave/Faron Mist Cave Open Chest": 2320276,  # Faron Mist Cave Open Chest
     "Faron Mist North Chest/Faron Mist North Chest": 2320277,  # Faron Mist North Chest
     "Faron Mist Poe/Faron Mist Poe": 2320278,  # Faron Mist Poe
     "Faron Mist South Chest/Faron Mist South Chest": 2320279,  # Faron Mist South Chest
@@ -604,8 +604,8 @@ POPTRACKER_NAME_MAPPING = {
     "Sacred Grove Master Sword Poe/Sacred Grove Master Sword Poe": 2320291,  # Sacred Grove Master Sword Poe
     "Sacred Grove Past Owl Statue Chest/Sacred Grove Past Owl Statue Chest": 2320292,  # Sacred Grove Past Owl Statue Chest
     "Sacred Grove/Past Owl Statue Chest": 2320292,  # Sacred Grove Past Owl Statue Chest
-    "Sacred Grove Pedestal/Master Sword": 2320293,  # Sacred Grove Pedestal Master Sword
-    "Sacred Grove Pedestal/Shadow Crystal": 2320294,  # Sacred Grove Pedestal Shadow Crystal
+    "Sacred Grove Pedestal/Sacred Grove Pedestal Master Sword": 2320293,  # Sacred Grove Pedestal Master Sword
+    "Sacred Grove Pedestal/Sacred Grove Pedestal Shadow Crystal": 2320294,  # Sacred Grove Pedestal Shadow Crystal
     "Sacred Grove Spinner Chest/Sacred Grove Spinner Chest": 2320295,  # Sacred Grove Spinner Chest
     "Sacred Grove Temple of Time Owl Statue Poe/Sacred Grove Temple of Time Owl Statue Poe": 2320296,  # Sacred Grove Temple of Time Owl Statue Poe
     "Sacred Grove/Temple of Time Owl Statue Poe": 2320296,  # Sacred Grove Temple of Time Owl Statue Poe
@@ -630,15 +630,15 @@ POPTRACKER_NAME_MAPPING = {
     "Gerudo Desert East Canyon Chest/Gerudo Desert East Canyon Chest": 2320310,  # Gerudo Desert East Canyon Chest
     "Gerudo Desert East Poe/Gerudo Desert East Poe": 2320311,  # Gerudo Desert East Poe
     "Gerudo Desert Female Dayfly/Gerudo Desert Female Dayfly": 2320312,  # Gerudo Desert Female Dayfly
-    "Gerudo Desert Golden Wolf/(Lake Hylia Stone)": 2320313,  # Gerudo Desert Golden Wolf
+    "Gerudo Desert Golden Wolf/Gerudo Desert Golden Wolf": 2320313,  # Gerudo Desert Golden Wolf
     "Gerudo Desert Lone Small Chest/Gerudo Desert Lone Small Chest": 2320314,  # Gerudo Desert Lone Small Chest
     "Gerudo Desert Male Dayfly/Gerudo Desert Male Dayfly": 2320315,  # Gerudo Desert Male Dayfly
     "Gerudo Desert North Peahat Poe/Gerudo Desert North Peahat Poe": 2320316,  # Gerudo Desert North Peahat Poe
     "Gerudo Desert North Small Chest Before Bulblin Camp/Gerudo Desert North Small Chest Before Bulblin Camp": 2320317,  # Gerudo Desert North Small Chest Before Bulblin Camp
     "Gerudo Desert Northeast Chest Behind Gates/Gerudo Desert Northeast Chest Behind Gates": 2320318,  # Gerudo Desert Northeast Chest Behind Gates
     "Gerudo Desert Northwest Chest Behind Gates/Gerudo Desert Northwest Chest Behind Gates": 2320319,  # Gerudo Desert Northwest Chest Behind Gates
-    "Gerudo Desert Owl Statue/Chest": 2320320,  # Gerudo Desert Owl Statue Chest
-    "Gerudo Desert Owl Statue/Sky Character": 2320321,  # Gerudo Desert Owl Statue Sky Character
+    "Gerudo Desert Owl Statue/Gerudo Desert Owl Statue Chest": 2320320,  # Gerudo Desert Owl Statue Chest
+    "Gerudo Desert Owl Statue/Gerudo Desert Owl Statue Sky Character": 2320321,  # Gerudo Desert Owl Statue Sky Character
     "Gerudo Desert Peahat Ledge Chest/Gerudo Desert Peahat Ledge Chest": 2320322,  # Gerudo Desert Peahat Ledge Chest
     "Gerudo Desert Poe Above Cave of Ordeals/Gerudo Desert Poe Above Cave of Ordeals": 2320323,  # Gerudo Desert Poe Above Cave of Ordeals
     "Gerudo Desert Rock Grotto First Poe/Gerudo Desert Rock Grotto Second Poe": 2320324,  # Gerudo Desert Rock Grotto Second Poe
@@ -710,20 +710,22 @@ POPTRACKER_NAME_MAPPING = {
     "East Castle Town Bridge Poe/East Castle Town Bridge Poe": 2320361,  # East Castle Town Bridge Poe
     "Fishing Hole Bottle/Fishing Hole Bottle": 2320362,  # Fishing Hole Bottle
     "Fishing Hole Heart Piece/Fishing Hole Heart Piece": 2320363,  # Fishing Hole Heart Piece
-    "Flight By Fowl/Fifth Platform Chest": 2320364,  # Flight By Fowl Fifth Platform Chest
-    "Flight By Fowl/Fourth Platform Chest": 2320365,  # Flight By Fowl Fourth Platform Chest
+    "Flight By Fowl/Flight By Fowl Fifth Platform Chest": 2320364,  # Flight By Fowl Fifth Platform Chest
+    "Flight By Fowl/Flight By Fowl Fourth Platform Chest": 2320365,  # Flight By Fowl Fourth Platform Chest
     "Flight By Fowl Ledge Poe/Flight By Fowl Ledge Poe": 2320366,  # Flight By Fowl Ledge Poe
-    "Flight By Fowl/Second Platform Chest": 2320367,  # Flight By Fowl Second Platform Chest
-    "Flight By Fowl/Third Platform Chest": 2320368,  # Flight By Fowl Third Platform Chest
-    "Flight By Fowl/Top Platform Reward": 2320369,  # Flight By Fowl Top Platform Reward
+    "Flight By Fowl/Flight By Fowl Second Platform Chest": 2320367,  # Flight By Fowl Second Platform Chest
+    "Flight By Fowl/Flight By Fowl Third Platform Chest": 2320368,  # Flight By Fowl Third Platform Chest
+    "Flight By Fowl/Flight By Fowl Top Platform Reward": 2320369,  # Flight By Fowl Top Platform Reward
     "Hyrule Field Amphitheater Owl Statue Chest/Hyrule Field Amphitheater Owl Statue Chest": 2320370,  # Hyrule Field Amphitheater Owl Statue Chest
     "Hyrule Field Amphitheater Owl Statue Sky Character/Hyrule Field Amphitheater Owl Statue Sky Character": 2320371,  # Hyrule Field Amphitheater Owl Statue Sky Character
     "Hyrule Field Amphitheater Poe/Hyrule Field Amphitheater Poe": 2320372,  # Hyrule Field Amphitheater Poe
     "Isle of Riches Poe/Isle of Riches Poe": 2320373,  # Isle of Riches Poe
-    "Iza/Helping Hand": 2320374,  # Iza Helping Hand
-    "Iza/Raging Rapids Minigame": 2320375,  # Iza Raging Rapids Minigame
+    "Iza/Iza Helping Hand": 2320374,  # Iza Helping Hand
+    "Iza/Iza Raging Rapids Minigame": 2320375,  # Iza Raging Rapids Minigame
     "Jovani/20 Poe Soul Reward": 2320376,  # Jovani 20 Poe Soul Reward
+    "Jovani/Jovani 20 Poe Soul Reward": 2320376,  # Jovani 20 Poe Soul Reward
     "Jovani/60 Poe Soul Reward": 2320377,  # Jovani 60 Poe Soul Reward
+    "Jovani/Jovani 60 Poe Soul Reward": 2320377,  # Jovani 60 Poe Soul Reward
     "Jovani House Poe/Jovani House Poe": 2320378,  # Jovani House Poe
     "Jovani/House Poe": 2320378,  # Jovani House Poe
     "Lake Hylia Alcove Poe/Lake Hylia Alcove Poe": 2320379,  # Lake Hylia Alcove Poe
@@ -733,8 +735,8 @@ POPTRACKER_NAME_MAPPING = {
     "Lake Hylia Bridge Cliff Poe/Lake Hylia Bridge Cliff Poe": 2320382,  # Lake Hylia Bridge Cliff Poe
     "Lake Hylia Bridge Female Mantis/Lake Hylia Bridge Female Mantis": 2320383,  # Lake Hylia Bridge Female Mantis
     "Lake Hylia Bridge Male Mantis/Lake Hylia Bridge Male Mantis": 2320384,  # Lake Hylia Bridge Male Mantis
-    "Lake Hylia Bridge Owl Statue/Chest": 2320385,  # Lake Hylia Bridge Owl Statue Chest
-    "Lake Hylia Bridge Owl Statue/Sky Character": 2320386,  # Lake Hylia Bridge Owl Statue Sky Character
+    "Lake Hylia Bridge Owl Statue/Lake Hylia Bridge Owl Statue Chest": 2320385,  # Lake Hylia Bridge Owl Statue Chest
+    "Lake Hylia Bridge Owl Statue/Lake Hylia Bridge Owl Statue Sky Character": 2320386,  # Lake Hylia Bridge Owl Statue Sky Character
     "Lake Hylia Bridge Vines Chest/Lake Hylia Bridge Vines Chest": 2320387,  # Lake Hylia Bridge Vines Chest
     "Lake Hylia Dock Poe/Lake Hylia Dock Poe": 2320388,  # Lake Hylia Dock Poe
     "Lake Hylia Shell Blade Grotto Chest/Lake Hylia Shell Blade Grotto Chest": 2320389,  # Lake Hylia Shell Blade Grotto Chest
@@ -805,13 +807,13 @@ POPTRACKER_NAME_MAPPING = {
     "Lanayru Spring/Underwater Right Chest": 2320425,  # Lanayru Spring Underwater Right Chest
     "Lanayru Spring West Double Clawshot Chest/Lanayru Spring West Double Clawshot Chest": 2320426,  # Lanayru Spring West Double Clawshot Chest
     "Lanayru Spring/West Double Clawshot Chest": 2320426,  # Lanayru Spring West Double Clawshot Chest
-    "North Castle Town Golden Wolf/(Hidden Village Stone)": 2320427,  # North Castle Town Golden Wolf
+    "North Castle Town Golden Wolf/North Castle Town Golden Wolf": 2320427,  # North Castle Town Golden Wolf
     "Outside Lanayru Spring Left Statue Chest/Outside Lanayru Spring Left Statue Chest": 2320428,  # Outside Lanayru Spring Left Statue Chest
     "Outside Lanayru Spring Right Statue Chest/Outside Lanayru Spring Right Statue Chest": 2320429,  # Outside Lanayru Spring Right Statue Chest
     "Outside South Castle Town Double Clawshot Chasm Chest/Outside South Castle Town Double Clawshot Chasm Chest": 2320430,  # Outside South Castle Town Double Clawshot Chasm Chest
     "Outside South Castle Town Female Ladybug/Outside South Castle Town Female Ladybug": 2320431,  # Outside South Castle Town Female Ladybug
     "Outside South Castle Town Fountain Chest/Outside South Castle Town Fountain Chest": 2320432,  # Outside South Castle Town Fountain Chest
-    "Outside South Castle Town Golden Wolf/(North Faron Woods Stone)": 2320433,  # Outside South Castle Town Golden Wolf
+    "Outside South Castle Town Golden Wolf/Outside South Castle Town Golden Wolf": 2320433,  # Outside South Castle Town Golden Wolf
     "Outside South Castle Town Male Ladybug/Outside South Castle Town Male Ladybug": 2320434,  # Outside South Castle Town Male Ladybug
     "Outside South Castle Town Poe/Outside South Castle Town Poe": 2320435,  # Outside South Castle Town Poe
     "Outside South Castle Town Tektite Grotto /Chest": 2320436,  # Outside South Castle Town Tektite Grotto Chest
@@ -819,13 +821,13 @@ POPTRACKER_NAME_MAPPING = {
     "Outside South Castle Town Tightrope Chest/Outside South Castle Town Tightrope Chest": 2320437,  # Outside South Castle Town Tightrope Chest
     "Plumm Fruit Balloon Minigame/Plumm Fruit Balloon Minigame": 2320438,  # Plumm Fruit Balloon Minigame
     "STAR Tent/Prize 1": 2320439,  # STAR Prize 1
-    "STAR/Prize 1": 2320439,  # STAR Prize 1
+    "STAR/STAR Prize 1": 2320439,  # STAR Prize 1
     "STAR Tent/Prize 2": 2320440,  # STAR Prize 2
-    "STAR/Prize 2": 2320440,  # STAR Prize 2
+    "STAR/STAR Prize 2": 2320440,  # STAR Prize 2
     "Upper Zoras River Female Dragonfly/Upper Zoras River Female Dragonfly": 2320441,  # Upper Zoras River Female Dragonfly
     "Upper Zoras River Poe/Upper Zoras River Poe": 2320442,  # Upper Zoras River Poe
     "West Hyrule Field Female Butterfly/West Hyrule Field Female Butterfly": 2320443,  # West Hyrule Field Female Butterfly
-    "West Hyrule Field Golden Wolf/(Upper Zora's River Stone)": 2320444,  # West Hyrule Field Golden Wolf
+    "West Hyrule Field Golden Wolf/West Hyrule Field Golden Wolf": 2320444,  # West Hyrule Field Golden Wolf
     "West Hyrule Field Helmasaur Grotto Chest/West Hyrule Field Helmasaur Grotto Chest": 2320445,  # West Hyrule Field Helmasaur Grotto Chest
     "West Hyrule Field Helmasaur Grotto/Chest": 2320445,  # West Hyrule Field Helmasaur Grotto Chest
     "West Hyrule Field Male Butterfly/West Hyrule Field Male Butterfly": 2320446,  # West Hyrule Field Male Butterfly
@@ -846,7 +848,7 @@ POPTRACKER_NAME_MAPPING = {
     "Ordon Ranch Grotto/Lantern Chest": 2320458,  # Ordon Ranch Grotto Lantern Chest
     "Ordon Shield House/Ordon Shield": 2320459,  # Ordon Shield
     "Ordon Shield/Ordon Shield": 2320459,  # Ordon Shield
-    "Ordon Spring Golden Wolf/(Death Mountain Stone)": 2320460,  # Ordon Spring Golden Wolf
+    "Ordon Spring Golden Wolf/Ordon Spring Golden Wolf": 2320460,  # Ordon Spring Golden Wolf
     "Ordon Sword House/Ordon Sword": 2320461,  # Ordon Sword
     "Ordon Sword/Ordon Sword": 2320461,  # Ordon Sword
     "Sera Shop Slingshot/Sera Shop Slingshot": 2320462,  # Sera Shop Slingshot
@@ -867,9 +869,9 @@ POPTRACKER_NAME_MAPPING = {
     "Snowpeak Icy Summit Poe/Snowpeak Icy Summit Poe": 2320473,  # Snowpeak Icy Summit Poe
     "Snowpeak Poe Among Trees/Snowpeak Poe Among Trees": 2320474,  # Snowpeak Poe Among Trees
     "Bridge of Eldin Boulder Rupee/Bridge of Eldin Boulder Rupee": 2320475,  # Bridge of Eldin Boulder Rupee
-    "Death Mountain Volcano Ledge/Rupee 1": 2320476,  # Death Mountain Volcano Ledge Rupee 1
-    "Death Mountain Volcano Ledge/Rupee 2": 2320477,  # Death Mountain Volcano Ledge Rupee 2
-    "Death Mountain Volcano Ledge/Rupee 3": 2320478,  # Death Mountain Volcano Ledge Rupee 3
+    "Death Mountain Volcano Ledge/Death Mountain Volcano Ledge Rupee 1": 2320476,  # Death Mountain Volcano Ledge Rupee 1
+    "Death Mountain Volcano Ledge/Death Mountain Volcano Ledge Rupee 2": 2320477,  # Death Mountain Volcano Ledge Rupee 2
+    "Death Mountain Volcano Ledge/Death Mountain Volcano Ledge Rupee 3": 2320478,  # Death Mountain Volcano Ledge Rupee 3
     "Death Mountain Volcano Pipe Ledge Rock Rupee/Death Mountain Volcano Pipe Ledge Rock Rupee": 2320479,  # Death Mountain Volcano Pipe Ledge Rock Rupee
     "Eldin Spring Underwater Boulder Rupee/Eldin Spring Underwater Boulder Rupee": 2320480,  # Eldin Spring Underwater Boulder Rupee
     "Ilia Charm/Ilia Charm": 2320481,  # Ilia Charm
@@ -881,18 +883,18 @@ POPTRACKER_NAME_MAPPING = {
     "Kakariko Village Ant House Ledge Box Rupee/Kakariko Village Ant House Ledge Box Rupee": 2320486,  # Kakariko Village Ant House Ledge Box Rupee
     "Kakariko Village Bell Rupee/Kakariko Village Bell Rupee": 2320487,  # Kakariko Village Bell Rupee
     "Kakariko Village Hot Spring Ledge Box Rupee/Kakariko Village Hot Spring Ledge Box Rupee": 2320488,  # Kakariko Village Hot Spring Ledge Box Rupee
-    "Kakariko Village Spring Shortcut Box/Rupee 1": 2320489,  # Kakariko Village Spring Shortcut Box Rupee 1
-    "Kakariko Village Spring Shortcut Box/Rupee 2": 2320490,  # Kakariko Village Spring Shortcut Box Rupee 2
+    "Kakariko Village Spring Shortcut Box/Kakariko Village Spring Shortcut Box Rupee 1": 2320489,  # Kakariko Village Spring Shortcut Box Rupee 1
+    "Kakariko Village Spring Shortcut Box/Kakariko Village Spring Shortcut Box Rupee 2": 2320490,  # Kakariko Village Spring Shortcut Box Rupee 2
     "Renados Letter/Renados Letter": 2320491,  # Renados Letter
     "Renados Sanctuary/Renados Letter": 2320491,  # Renados Letter
     "Renados Sanctuary/Shad Dominion Rod": 2320492,  # Shad Dominion Rod
     "Shad Dominion Rod/Shad Dominion Rod": 2320492,  # Shad Dominion Rod
-    "Coro/Gate Key": 2320493,  # Coro Gate Key
-    "Coro/Lantern": 2320494,  # Coro Lantern
-    "Faron Woods Coro Boulder/Rupee 1": 2320495,  # Faron Woods Coro Boulder Rupee 1
-    "Faron Woods Coro Boulder/Rupee 2": 2320496,  # Faron Woods Coro Boulder Rupee 2
-    "Faron Woods Coro Boulder/Rupee 3": 2320497,  # Faron Woods Coro Boulder Rupee 3
-    "Faron Woods Coro Boulder/Rupee 4": 2320498,  # Faron Woods Coro Boulder Rupee 4
+    "Coro/Coro Gate Key": 2320493,  # Coro Gate Key
+    "Coro/Coro Lantern": 2320494,  # Coro Lantern
+    "Faron Woods Coro Boulder/Faron Woods Coro Boulder Rupee 1": 2320495,  # Faron Woods Coro Boulder Rupee 1
+    "Faron Woods Coro Boulder/Faron Woods Coro Boulder Rupee 2": 2320496,  # Faron Woods Coro Boulder Rupee 2
+    "Faron Woods Coro Boulder/Faron Woods Coro Boulder Rupee 3": 2320497,  # Faron Woods Coro Boulder Rupee 3
+    "Faron Woods Coro Boulder/Faron Woods Coro Boulder Rupee 4": 2320498,  # Faron Woods Coro Boulder Rupee 4
     "Castle Town Goron Shop Arrow Refill/Castle Town Goron Shop Arrow Refill": 2320499,  # Castle Town Goron Shop Arrow Refill
     "Castle Town Goron Shop Hylian Shield/Castle Town Goron Shop Hylian Shield": 2320500,  # Castle Town Goron Shop Hylian Shield
     "Castle Town Goron Shop/Hylian Shield": 2320500,  # Castle Town Goron Shop Hylian Shield
@@ -946,16 +948,16 @@ POPTRACKER_NAME_MAPPING = {
     "Ordon Bo Roof/Ordon Bo Window Rupee 2": 2320543,  # Ordon Bo Window Rupee 2
     "Ordon Hidden Rusl House Rupee/Ordon Hidden Rusl House Rupee": 2320544,  # Ordon Hidden Rusl House Rupee
     "Ordon Rupee In Grass By Bo/Ordon Rupee In Grass By Bo": 2320545,  # Ordon Rupee In Grass By Bo
-    "Ordon Rupee In River/1": 2320546,  # Ordon Rupee In River 1
-    "Ordon Rupee In River/2": 2320547,  # Ordon Rupee In River 2
+    "Ordon Rupee In River/Ordon Rupee In River 1": 2320546,  # Ordon Rupee In River 1
+    "Ordon Rupee In River/Ordon Rupee In River 2": 2320547,  # Ordon Rupee In River 2
     "Ordon Rupee Under Bridge/Ordon Rupee Under Bridge": 2320548,  # Ordon Rupee Under Bridge
-    "Ordon Rupee Under Tall Tree/1": 2320549,  # Ordon Rupee Under Tall Tree 1
-    "Ordon Rupee Under Tall Tree/2": 2320550,  # Ordon Rupee Under Tall Tree 2
-    "Ordon Rusl House Roof/Rupee 1": 2320551,  # Ordon Rusl House Roof Rupee 1
-    "Ordon Rusl House Roof/Rupee 2": 2320552,  # Ordon Rusl House Roof Rupee 2
+    "Ordon Rupee Under Tall Tree/Ordon Rupee Under Tall Tree 1": 2320549,  # Ordon Rupee Under Tall Tree 1
+    "Ordon Rupee Under Tall Tree/Ordon Rupee Under Tall Tree 2": 2320550,  # Ordon Rupee Under Tall Tree 2
+    "Ordon Rusl House Roof/Ordon Rusl House Roof Rupee 1": 2320551,  # Ordon Rusl House Roof Rupee 1
+    "Ordon Rusl House Roof/Ordon Rusl House Roof Rupee 2": 2320552,  # Ordon Rusl House Roof Rupee 2
     "Ordon Shield House Ledge Grass Rupee/Ordon Shield House Ledge Grass Rupee": 2320553,  # Ordon Shield House Ledge Grass Rupee
-    "Ordon Tree/Long Branch Rupee": 2320554,  # Ordon Tree Long Branch Rupee
-    "Ordon Tree/Short Branch Rupee": 2320555,  # Ordon Tree Short Branch Rupee
+    "Ordon Tree/Ordon Tree Long Branch Rupee": 2320554,  # Ordon Tree Long Branch Rupee
+    "Ordon Tree/Ordon Tree Short Branch Rupee": 2320555,  # Ordon Tree Short Branch Rupee
     "Snowboarding Bridge Ledge Bottom Rupee/Snowboarding Bridge Ledge Bottom Rupee": 2320556,  # Snowboarding Bridge Ledge Bottom Rupee
     "Snowboarding Bridge Ledge Middle Rupee/Snowboarding Bridge Ledge Middle Rupee": 2320557,  # Snowboarding Bridge Ledge Middle Rupee
     "Snowboarding Bridge Ledge Upper Rupee/Snowboarding Bridge Ledge Upper Rupee": 2320558,  # Snowboarding Bridge Ledge Upper Rupee
